@@ -1,1 +1,3 @@
 # slim-boilerplate
+
+composer install
